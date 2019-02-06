@@ -1,0 +1,526 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: pit_open
+  serializedVersion: 6
+  m_Legacy: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -1, z: 0, w: 1.94707184e-07}
+        inSlope: {x: -4.70754576, y: .184961542, z: 9.16592967e-07, w: -3.60134287e-08}
+        outSlope: {x: -4.70754576, y: .184961542, z: 9.16592967e-07, w: -3.60134287e-08}
+        tangentMode: -559038737
+      - time: .0333333351
+        value: {x: -.156434476, y: -.987688363, z: 3.04589172e-08, w: 1.92310026e-07}
+        inSlope: {x: -4.64958858, y: .736421824, z: 9.05308184e-07, w: -1.43386515e-07}
+        outSlope: {x: -4.64958858, y: .736421824, z: 9.05308184e-07, w: -1.43386515e-07}
+        tangentMode: -559038737
+      - time: .150000006
+        value: {x: -.649448037, y: -.760405958, z: 1.26452193e-07, w: 1.480565e-07}
+        inSlope: {x: -3.57964611, y: 3.05730724, z: 6.96982795e-07, w: -5.95279857e-07}
+        outSlope: {x: -3.57964611, y: 3.05730724, z: 6.96982795e-07, w: -5.95279857e-07}
+        tangentMode: -559038737
+      - time: .166666672
+        value: {x: -.707106769, y: -.707106769, z: 1.37678768e-07, w: 1.37678768e-07}
+        inSlope: {x: -3.45952415, y: 3.19795156, z: 6.7359457e-07, w: -6.22664004e-07}
+        outSlope: {x: -3.45952415, y: 3.19795156, z: 6.7359457e-07, w: -6.22664004e-07}
+        tangentMode: -559038737
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dungeon_trap_door_R
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0, w: 1}
+        inSlope: {x: 0, y: 0, z: 4.70754576, w: -.184961542}
+        outSlope: {x: 0, y: 0, z: 4.70754576, w: -.184961542}
+        tangentMode: 0
+      - time: .0333333351
+        value: {x: 0, y: 0, z: .156434476, w: .987688363}
+        inSlope: {x: 0, y: 0, z: 4.64958858, w: -.736421824}
+        outSlope: {x: 0, y: 0, z: 4.64958858, w: -.736421824}
+        tangentMode: 0
+      - time: .150000006
+        value: {x: 0, y: 0, z: .649448037, w: .760405958}
+        inSlope: {x: 0, y: 0, z: 3.57964611, w: -3.05730724}
+        outSlope: {x: 0, y: 0, z: 3.57964611, w: -3.05730724}
+        tangentMode: 0
+      - time: .166666672
+        value: {x: 0, y: 0, z: .707106769, w: .707106769}
+        inSlope: {x: 0, y: 0, z: 3.45952415, w: -3.19795156}
+        outSlope: {x: 0, y: 0, z: 3.45952415, w: -3.19795156}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Dungeon_trap_door_L
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 1
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -4.70754576
+        outSlope: -4.70754576
+        tangentMode: 0
+      - time: .0333333351
+        value: -.156434476
+        inSlope: -4.64958858
+        outSlope: -4.64958858
+        tangentMode: 0
+      - time: .150000006
+        value: -.649448037
+        inSlope: -3.57964611
+        outSlope: -3.57964611
+        tangentMode: 0
+      - time: .166666672
+        value: -.707106769
+        inSlope: -3.45952415
+        outSlope: -3.45952415
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -1
+        inSlope: .184961542
+        outSlope: .184961542
+        tangentMode: 0
+      - time: .0333333351
+        value: -.987688363
+        inSlope: .736421824
+        outSlope: .736421824
+        tangentMode: 0
+      - time: .150000006
+        value: -.760405958
+        inSlope: 3.05730724
+        outSlope: 3.05730724
+        tangentMode: 0
+      - time: .166666672
+        value: -.707106769
+        inSlope: 3.19795156
+        outSlope: 3.19795156
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 9.16592967e-07
+        outSlope: 9.16592967e-07
+        tangentMode: 0
+      - time: .0333333351
+        value: 3.04589172e-08
+        inSlope: 9.05308184e-07
+        outSlope: 9.05308184e-07
+        tangentMode: 0
+      - time: .150000006
+        value: 1.26452193e-07
+        inSlope: 6.96982795e-07
+        outSlope: 6.96982795e-07
+        tangentMode: 0
+      - time: .166666672
+        value: 1.37678768e-07
+        inSlope: 6.7359457e-07
+        outSlope: 6.7359457e-07
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.94707184e-07
+        inSlope: -3.60134287e-08
+        outSlope: -3.60134287e-08
+        tangentMode: 0
+      - time: .0333333351
+        value: 1.92310026e-07
+        inSlope: -1.43386515e-07
+        outSlope: -1.43386515e-07
+        tangentMode: 0
+      - time: .150000006
+        value: 1.480565e-07
+        inSlope: -5.95279857e-07
+        outSlope: -5.95279857e-07
+        tangentMode: 0
+      - time: .166666672
+        value: 1.37678768e-07
+        inSlope: -6.22664004e-07
+        outSlope: -6.22664004e-07
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .0333333351
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .150000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 4.70754576
+        outSlope: 4.70754576
+        tangentMode: 0
+      - time: .0333333351
+        value: .156434476
+        inSlope: 4.64958858
+        outSlope: 4.64958858
+        tangentMode: 0
+      - time: .150000006
+        value: .649448037
+        inSlope: 3.57964611
+        outSlope: 3.57964611
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: 3.45952415
+        outSlope: 3.45952415
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: -.184961542
+        outSlope: -.184961542
+        tangentMode: 0
+      - time: .0333333351
+        value: .987688363
+        inSlope: -.736421824
+        outSlope: -.736421824
+        tangentMode: 0
+      - time: .150000006
+        value: .760405958
+        inSlope: -3.05730724
+        outSlope: -3.05730724
+        tangentMode: 0
+      - time: .166666672
+        value: .707106769
+        inSlope: -3.19795156
+        outSlope: -3.19795156
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 2.28141479e-39
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 2.28141479e-39
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -179.999985
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: -179.999985
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 540
+        outSlope: 540
+        tangentMode: 10
+      - time: .166666672
+        value: 90
+        inSlope: 540
+        outSlope: 540
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dungeon_trap_door_R
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .166666672
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 540
+        outSlope: 540
+        tangentMode: 10
+      - time: .166666672
+        value: 90
+        inSlope: 540
+        outSlope: 540
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Dungeon_trap_door_L
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []
